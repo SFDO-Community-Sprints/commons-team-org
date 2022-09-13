@@ -1,9 +1,8 @@
-# Project Name
-Please replace with your projects name
+# Commons Team Salesforce Org
 
 # Project Overview
 ## Vision & Goals
-Please replace with your projects vision.
+Please replace with your projects vision
 * Goal 1
 * Goal 2
 
